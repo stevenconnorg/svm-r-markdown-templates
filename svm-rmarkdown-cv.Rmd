@@ -6,15 +6,14 @@ output:
 geometry: margin=1in
 
 title: "CV"
-author: William Sealy Gosset
+author: Steven C. Gonzalez
 
-jobtitle: "Chief Brewer, Arthur Guinness & Son"
-address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+jobtitle: "GIS Professional, Knight Federal Solutions"
+address: "2457 W Wilson Ave, Chicago, IL 60625"
 fontawesome: yes
-email: guinness@consumer-care.net
-# github: svmiller
-phone: "+353 1 408 4800"
-web: guinness.com
+email: stevenconnorg@gmail.com
+# github: stevenconnorg
+phone: "(210) 601 - 9549"
 updated: no
 
 keywords: R Markdown, academic CV, template
@@ -28,60 +27,41 @@ urlcolor: blue
 
 # Employment
 
-*Arthur Guinness & Son*
+*Knight Federal Solutions*
 
-Chief Brewer (Park Royal) \hfill 1935-1937
+GIS Professional (San Antonio, TX) \hfill 03/2018 - Present
+
+*Bexar Appraisal District*
+
+Researcher (GIS Technician) \hfill 06/2017 - 03/2018
+
+GIS Intern (San Antonio, TX)\hfill 09/2016 - 01/2017
+
+
+*University of Texas*
+
+Business Research Assistant (San Antonio, TX) \hfill 01/2017 - 06/2017
+
+
+*Texas State University*
+
+GIS Research Assistant (San Marcos, TX) \hfill 01/2017 - 01/2018
 
 Researcher (Dublin) \hfill 1899-1935
 
+
 # Education
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+*Texas State University*, M.S. Geography \hfill 2018
 
+*Texas State University*, B.s. Geography,  Environmental Studies \hfill 2016
 
-# Publications
+# Awards
 
-## Books
+*Texas State University's* 2015 - 2016 Award for Academic Excellence (Top 95%)
 
-Pearson, E.S. and John Wishart (eds.). 1943. *"Student's" Collected Papers* London: Biometrika Office.
+*Phi Kappa Phi* Honor Society (4.0 GPA)
 
-## Journal Articles
-
-Student. 1938. "Comparison between Balanced and Random Arrangements on Field Plots." *Biometrika* 29(3-4): 363--378.
-
-Student. 1936. "Co-operation in Large Scale Experiments." *Supplement to Journal of the Royal Statistical Society* 3(2): 115--136.
-
-Student. 1931. "On the *z* Test." *Biometrika* 23(3-4): 407-408.
-
-Student. 1931. "The Lanarkshire Milk Experiment." *Biometrika* 23(3-4): 398--406.
-
-Student. 1929. "Statistics in Biological Research." *Nature* 124: 93
-
-Student. 1927. "Errors of Routine Analysis." *Biometrika* 19(1-2): 151--164.
-
-Student. 1926. "Mathematics and Agronomy." *Journal of the American Society of Agronomy* 18.
-
-Student. 1925. "New Tables for Testing the Significance of Observations." *Metron* 5(3): 105--108.
-
-Student. 1923. "On Testing Varieties of Cereals." *Biometrika* 15(3-4): 271--293.
-
-Student. 1921. "An Experimental Determination of the Probable Error of Dr. Spearman's Correlation Co-efficient" *Biometrika* 13(2-3): 263--282.
-
-Student. 1917. "Tables for Estimating the Probability That the Given Mean of a Unique Sample of Observations Lies between $-\infty$ and Any Given Distance of the Mean of the Population from Which the Sample Is Drawn." *Biometrika* 11(4): 414--417.
-
-Student. 1909. "The Distribution of the Means of Samples Which Are Not Drawn at Random." *Biometrika* 7(1-2): 210--214.
-
-Student. 1908. "Probable Error of a Correlation Coefficient." *Biometrika* 6(2-3): 302--310.
-
-Student. 1908. "The Probable Error of a Mean." *Biometrika* 6(1): 1--25.
-
-Student. 1907. "On the Error of Counting with a Haemacytometer." *Biometrika* 5(3): 351--360.
-
-## Other Publications
-
-Student. 1905. "The Pearson Co-efficient of Correlation." Supplement to Report of 1904, Arthur Guinness Son & Company.
-
-Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery." Report, Arthur Guinness Son & Company.
 
 # References
 
